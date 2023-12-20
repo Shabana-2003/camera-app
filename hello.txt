@@ -1,0 +1,33 @@
+FINANCIA
+money management app
+
+
+I'll be embarking on the development of a comprehensive finance app called "Financia." To bring this project to life, I've chosen to leverage the power of the Flutter framework and the Dart programming language for both the frontend and backend components.
+
+On the backend side of things, I've decided to employ Flutter Hive, a local NoSQL database that is well-suited for storing and managing data efficiently. Hive allows me to handle complex data structures, offering a robust solution for persisting user data and other essential information securely.
+
+By using Flutter Hive, I can ensure that my finance app has a responsive and efficient backend. This database solution offers benefits like speed and reliability, which are crucial for a finance application, where users expect quick access to their financial data and a high level of data integrity.
+
+The combination of Flutter and Hive will enable me to create a powerful and user-friendly financial app, providing a seamless user experience while ensuring that all financial data is stored securely and easily accessible. With these tools at my disposal, I'm excited to develop a robust and reliable financial app, "Financia," that will help users manage their finances effectively.
+
+
+
+Week 1: Authentication and Basic UI Design*
+- Module 1: Create a Flutter authentication system.
+- Module 2: Design the login page UI.
+- Module 3: Design the sign-up page UI.
+- Module 4: Implement email login and logout functionality.
+- Module 5: Implement email sign-up.
+- Module 6: Implement Google Sign-In.
+
+*Week 2: Inner Page UI Design*
+- Module 7: Design the UI for inner pages.
+
+*Week 3: UI Design and Database Integration*
+- Module 8: Continue UI design work.
+- Module 9: Integrate Hive database (or any database of your choice).
+- Module 10: Implement database functionality.
+
+*Week 4: Project Completion*
+- Module 11: Finalize and test your project.
+- Module 12: Ensure all database functionalities are working correctly.
